@@ -305,4 +305,5 @@ pip-selfcheck.json
 
 nomadgram/media/
 
-
+.vscode/
+Pipfile.lock
